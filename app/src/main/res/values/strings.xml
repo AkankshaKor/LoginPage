@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="firebase_error_login">Firebase Login Error</string>
+    <string name="facebook_app_id">136656993707007</string>
+
+
+</resources>
